@@ -7,3 +7,6 @@ To use:
          friend then clicks the first submit box which will bring up his description in the second text box
          friend sends this description to caller
   caller places this description in his second box . caller clicks the second submit box and the chat starts. 
+
+
+Calls must be on same network
